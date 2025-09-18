@@ -1,4 +1,4 @@
-# Automated Speech Recognition for Text Conversion
+# Automated Speech Recognition for Text Conversion 📜
 
 Automated Speech Recognition (ASR) for Text Conversion is a project designed to transcribe spoken language into written text automatically. This repository contains code, models, and documentation for building and deploying an ASR pipeline using modern deep learning techniques.
 
